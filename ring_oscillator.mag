@@ -1,0 +1,29 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1729059147
+<< checkpaint >>
+rect -1260 1966 2104 2072
+rect -1313 -1954 2104 1966
+rect -1313 -2060 2051 -1954
+rect -1313 -2166 1998 -2060
+<< metal1 >>
+rect 0 0 200 200
+rect 0 -400 200 -200
+rect 0 -800 200 -600
+use untitled  untitled_0
+timestamp 1729051000
+transform 1 0 106 0 1 506
+box -159 -1412 632 200
+use untitled  untitled_1
+timestamp 1729051000
+transform 1 0 159 0 1 612
+box -159 -1412 632 200
+<< labels >>
+flabel metal1 0 0 200 200 0 FreeSans 256 0 0 0 vdd
+port 0 nsew
+flabel metal1 0 -400 200 -200 0 FreeSans 256 0 0 0 out
+port 1 nsew
+flabel metal1 0 -800 200 -600 0 FreeSans 256 0 0 0 gnd
+port 2 nsew
+<< end >>

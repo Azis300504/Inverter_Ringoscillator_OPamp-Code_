@@ -1,0 +1,29 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1729236434
+<< error_s >>
+rect 740 598 742 998
+rect 686 486 688 488
+rect 740 88 742 486
+use sky130_fd_pr__nfet_01v8_TC9PLT  sky130_fd_pr__nfet_01v8_TC9PLT_0
+timestamp 1729236434
+transform 1 0 -127 0 1 288
+box -73 -226 73 226
+use sky130_fd_pr__nfet_01v8_TC9PLT  sky130_fd_pr__nfet_01v8_TC9PLT_1
+timestamp 1729236434
+transform 1 0 813 0 1 798
+box -73 -226 73 226
+use sky130_fd_pr__nfet_01v8_TC9PLT  sky130_fd_pr__nfet_01v8_TC9PLT_2
+timestamp 1729236434
+transform 1 0 813 0 1 286
+box -73 -226 73 226
+use sky130_fd_pr__nfet_01v8_TC9PLT  sky130_fd_pr__nfet_01v8_TC9PLT_3
+timestamp 1729236434
+transform 1 0 -127 0 1 798
+box -73 -226 73 226
+use sky130_fd_pr__nfet_01v8_TE7E4N  sky130_fd_pr__nfet_01v8_TE7E4N_0
+timestamp 1729236434
+transform 1 0 344 0 1 543
+box -344 -543 344 543
+<< end >>
